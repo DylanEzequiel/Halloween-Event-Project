@@ -1,0 +1,43 @@
+body {
+  margin: auto;
+  background-image: url(../img/background.jpg);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 125%;
+  transition: 0.7s;
+}
+
+header {
+  margin: auto;
+  padding: 15px;
+  text-align: center;
+  background-color: #ff8400;
+  color: #fff;
+}
+
+main {
+  margin: 15px;
+  padding: 15px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  color: #fff;
+}
+
+section {
+  margin: 15px;
+  padding: 15px;
+  border: 1px solid #ff8400;
+  border-radius: 25px;
+  background-image: url(../img/background-two.jpg);
+  color: white;
+  text-align: justify;
+}
+
+section h2 {
+  border-bottom: 1px solid #b700ff;
+  text-align: center;
+}
+
+ul {
+  border-left: 1px solid #7b7b7b;
+  list-style-type: square;
+}
